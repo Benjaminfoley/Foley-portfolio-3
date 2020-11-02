@@ -4,7 +4,7 @@ header, footer, section, nav, article {
 
 /* TODO: Add property:value pairs to set the width
 of the page, the font type, and the font size */
-body {
+main {
   font-family: fantasy;
   font-size:2em;
 	margin: 5px auto;  
