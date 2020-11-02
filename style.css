@@ -10,6 +10,9 @@ body {
 	margin: 5px auto;  
   width: 940px;
 }
+p{
+  font-size:4mm;
+}
 
 /* TODO: Add property:value pairs to set the color
 of the h1 element and make its text centered. Look at the index.html to see what the h1 element creates on the page*/
